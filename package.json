@@ -1,0 +1,25 @@
+{
+  "name": "sky-tips",
+  "version": "1.0.0",
+  "description": "wjr.zhongweiwang",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujianrong/sky-tips.git"
+  },
+  "keywords": [
+    "tips"
+  ],
+  "author": "503723086@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wujianrong/sky-tips/issues"
+  },
+  "homepage": "https://github.com/wujianrong/sky-tips#readme"
+}
